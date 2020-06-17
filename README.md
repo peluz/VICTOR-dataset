@@ -23,6 +23,7 @@ We kindly request that users cite our paper in any publication that is generated
 * shallow_clf_docType.ipynb: notebook to train the shallow classifiers for document type prediction
 * baseline_clf_themes.ipynb: notebook to train baseline classifiers for theme prediction
 * dataset_statistics.ipynb: notebook to compute dataset statistics
+* get_preds.py: script to compute and save model predictions (to use in the CRF experiments)
 * crf_experiments.ipynb: notebook for CRF post-processing for document type classification
 * train_cnn.py script to train CNN for document type classification
 * train_lstm.py script to train LSTM for document type classification
